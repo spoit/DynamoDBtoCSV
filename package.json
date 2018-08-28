@@ -1,5 +1,5 @@
 {
-  "name": "DynamoDBtoCSV",
+  "name": "dynamo-db-to-csv",
   "description": "Dump Dynamo into CSV format",
   "version": "0.0.1",
   "private": true,
